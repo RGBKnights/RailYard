@@ -1,0 +1,270 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "libs\\components\\javascript_components.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\controller.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Singleton.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\framework.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Validations.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Column.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Table.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\configure.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\round_house.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\active_record.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\string.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Expressions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Serialization.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\double_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\adapters\\PgsqlAdapter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Relationship.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\object.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\queryable.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\singleton.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\response.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\request_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\view.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\components"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\session_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\body_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\response_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\components\\text_components.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Utils.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Reflections.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\outbound_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\adapters"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\router.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\components\\number_components.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Inflector.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\request.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\DateTime.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Model.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\adapters\\MysqlAdapter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Exceptions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\ConnectionManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\adapters\\OciAdapter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "console"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\route_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\SQLBuilder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\components\\xml_components.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\dispatcher.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\components\\html_components.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\CallBack.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\Connection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\inbound_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\cookie_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Roadmap.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\components\\time_components.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\tracks\\layout_track.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\activerecord\\adapters\\SqliteAdapter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "libs\\inflector.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

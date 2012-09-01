@@ -1,0 +1,258 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "views\\layouts\\flash.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot"
+    {
+    "ProjRelPath" = "T"
+    }
+    "dispatchers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "controllers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_glass_55_f8da4e_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "dispatchers\\admin\\default_dispatcher.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "components"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_0078ae_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\files"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_056b93_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_glass_75_79c9ec_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\scripts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_gloss-wave_45_e14f1c_500x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\site.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\img\\logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles"
+    {
+    "ProjRelPath" = "T"
+    }
+    "config\\core.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tracks\\layout.class.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\layouts\\default.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "config"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\layouts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\js\\view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "controllers\\admin\\articles_controller.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\jquery-ui-1.8.9.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "models"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "dispatchers\\admin"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_glass_45_0078ae_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_f5e175_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\js\\jquery-1.4.4.min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\reset.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "controllers\\admin"
+    {
+    "ProjRelPath" = "T"
+    }
+    "dispatchers\\default_dispatcher.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\html\\view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_e0fdff_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_d8e7f3_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\js\\jquery-ui-1.8.9.min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_flat_55_999999_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tracks"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_gloss-wave_75_2191c0_500x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_gloss-wave_50_6eac2c_500x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_fcd113_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\scripts\\view.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\favicon.ico"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-bg_flat_75_aaaaaa_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "views\\articles\\articles.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "webroot\\css\\start\\images\\ui-icons_f7a50d_256x240.png"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

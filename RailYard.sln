@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "RailYard", "RailYard\RailYard.phpproj", "{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}"
+EndProject
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "TestYard", "TestYard\TestYard.phpproj", "{BAF0EFCA-796D-4AE9-9363-9A4899A03109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Local|PHP 5.3 = Local|PHP 5.3
+		Production|PHP 5.3 = Production|PHP 5.3
+		Staging|PHP 5.3 = Staging|PHP 5.3
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}.Local|PHP 5.3.ActiveCfg = Local|PHP 5.3
+		{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}.Local|PHP 5.3.Deploy.0 = Local|PHP 5.3
+		{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}.Production|PHP 5.3.ActiveCfg = Production|PHP 5.3
+		{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}.Production|PHP 5.3.Deploy.0 = Production|PHP 5.3
+		{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}.Staging|PHP 5.3.ActiveCfg = Staging|PHP 5.3
+		{27CD22DD-E30D-45CE-B7FD-6D9EB178D9B3}.Staging|PHP 5.3.Deploy.0 = Staging|PHP 5.3
+		{BAF0EFCA-796D-4AE9-9363-9A4899A03109}.Local|PHP 5.3.ActiveCfg = Local|PHP 5.3
+		{BAF0EFCA-796D-4AE9-9363-9A4899A03109}.Local|PHP 5.3.Deploy.0 = Local|PHP 5.3
+		{BAF0EFCA-796D-4AE9-9363-9A4899A03109}.Production|PHP 5.3.ActiveCfg = Production|PHP 5.3
+		{BAF0EFCA-796D-4AE9-9363-9A4899A03109}.Production|PHP 5.3.Deploy.0 = Production|PHP 5.3
+		{BAF0EFCA-796D-4AE9-9363-9A4899A03109}.Staging|PHP 5.3.ActiveCfg = Staging|PHP 5.3
+		{BAF0EFCA-796D-4AE9-9363-9A4899A03109}.Staging|PHP 5.3.Deploy.0 = Staging|PHP 5.3
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

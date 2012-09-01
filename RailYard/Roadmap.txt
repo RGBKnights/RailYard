@@ -1,0 +1,30 @@
+RailYard(tm) : The tracks of rapid development (http://myrailyard.com)
+Roadmap for version 1.0
+
+Library:
+		Error Reporting:  add methods on response to collect the errors and render them into the layout
+		Logging: Engine, Interface, and Adapters
+		Caching: Engine, Interface, and Adapters
+
+Models:
+100%	Queryable: Provides functionality to evaluate queries against a specific data source wherein the type of the data is not specified.
+		Resource: Active Resource attempts to provide a coherent wrapper object-relational mapping for REST web services. It follows the same philosophy as Active Record, in that one of its prime aims is to reduce the amount of code needed to map to these resources. This is made possible by relying on a number of code- and protocol-based conventions that make it easy for Active Resource to infer complex relations and structures.
+		Record: Active Record attempts to provide a coherent wrapper as a solution for the inconvenience that is object-relational mapping. The prime directive for this mapping has been to minimize the amount of code needed to build a real-world domain model. This is made possible by relying on a number of conventions that make it easy for Active Record to infer complex relations and structures from a minimal amount of explicit direction.
+		Model:
+			callbacks: beforeFind(), afterFind(), beforeValidate(), beforeSave(), afterSave(), beforeDelete(), afterDelete(), onError(),
+			operations: save(), delete(), find(),
+
+Components:
+100%	HTML: tag(), doc_type(), meta(), image(), link(), url(), table()
+10%		JavaScript: object(), event(), 
+100%	Number: currency(), precision(), to_percentage(), to_readable_size(), format(), is_even(), is_odd()
+100%	Text: excerpt(), highlight(), strip_links(), to_list(), truncate()
+100%	Time: from_String(), to_quarter(), to_atom(), to_rss(), nice(), time_ago_in_words(), gmt(), format(), is_today(), is_this_week(), is_this_month(), is_this_year(), was_yesterday(), is_tomorrow(), was_within_last(), is_within_next()
+10%		XML: serialize(), deserialize(), header()
+100%	Flash: add to the response object flash method to store text for the next request
+0%		RSS: add helper methods to be used in the view
+0%		ACL: add to dispatchers helper methods to deal with access control
+
+Tracks:
+	Authentication: add methods to login, logout, etc.
+	Security: Basic Auth
